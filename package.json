@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel ./src/index.html",
-    "predeploy": "parcel build ./src/index.html --public-url https://migqp.github.io/threejs-basics",
+    "predeploy": "parcel build ./src/index.html --public-url https://runente.github.io",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "@parcel/config-default": "^2.6.2",
     "parcel-reporter-static-files-copy": "^1.3.4"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
   }
 }
