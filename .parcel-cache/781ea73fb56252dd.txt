@@ -1,8 +1,8 @@
-7087
+7232
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\svgo\lib\css-tools.js133039536627580132 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\resolve-uri\package.json133039536624239064 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\email-addresses\lib133039632308322466 1
-79C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\package.json133039640475540356 0
+79C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\package.json133039685012178561 0
 86C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\pinkie133039632307494676 1
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\LuminosityShader.js133039505105655243 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\json5\lib\unicode.d.ts133039533428086483 0
@@ -38,7 +38,7 @@
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\minmaxwh.js133039533436861529 0
 135C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\webgpu\WebGPUBackground.js133039505126829893 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\differenceBy.js133039632314717703 0
-71C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist133039641195337326 1
+71C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist133039688369664415 1
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_baseMergeDeep.js133039632309728703 0
 136C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\webgpu\WebGPUBufferUtils.js133039505126899682 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\src\ScrollToPlugin.js133039516706327833 0
@@ -55,7 +55,7 @@
 74C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\LICENSE133039609944141727 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\forEach.js133039632315802714 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\svgo\lib\path.js133039536627939170 0
-70C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src133039603555519424 1
+70C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src133039684210673695 1
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\scripts\generator.sh133039536629145960 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\keyboardevent-code.js133039533436063643 0
 89C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\callsites133039603048633934 1
@@ -63,7 +63,7 @@
 86C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\semver133039603293703520 1
 137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133039536628707131 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\codeframe\lib133039602875955270 1
-79C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules133039632304432876 1
+79C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules133039641326653766 1
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\wrapperAt.js133039632321809416 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\mapKeys.js133039632317798182 0
 90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\filenamify133039632308162890 1
@@ -73,10 +73,6 @@
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\KW.js133039533436223222 0
 76C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\README.md133039611098117554 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\detect-libc\bin133039603190618441 1
-99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\terser\lib\compress133039603320034819 1
-128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\VerticalBlurShader.js133039505124018043 0
-110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\internal\withoutIndex.js133039632310257302 0
-84C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso133039603176961105 1
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\core\BufferAttribute.js133039505094306719 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\lib\bus.js133039533425617964 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\terser\tools\terser.d.ts133039536628846758 0
@@ -110,7 +106,7 @@
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\msgpackr-extract\src\.vs\ProjectSettings.json133039533427837151 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples133039603404030507 1
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\misc\MorphBlendMesh.js133039505109310718 0
-81C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\index.html133039556584612346 0
+81C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\index.html133039688102194301 0
 88C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlnano133039603232715086 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\filenamify\license133039632307265290 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\property\border.js133039536626672622 0
@@ -126,7 +122,8 @@
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\postprocessing133039603394331609 1
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_reEvaluate.js133039632312165141 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor133039603444041540 1
-91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\monkey.468239f1.glb133039641126875678 0
+91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\monkey.468239f1.glb133039688298234518 0
+147C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\HEAD133039686557286944 0
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\misc\ConvexObjectBreaker.js133039505095606817 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\types.js133039536628258322 0
 143C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133039533431281324 0
@@ -184,11 +181,12 @@
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133039536625116714 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\forEach.js133039632309349725 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\type-fest\ts41\camel-case.d.ts133039536625914586 0
+167C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs\remotes\origin133039641512682611 1
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133039536625575491 0
-74C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\css133039506095801213 1
+74C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\css133039684210673695 1
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\findLastIndexFrom.js133039632315458792 0
 151C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\shadowmap_pars_fragment.glsl.js133039505116370082 0
-80C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\index.css133039441719417826 0
+80C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\src\index.css133039666964638039 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\shaders\VerticalBlurShader.js133039505123998137 0
 85C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chalk133039603139736995 1
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\dist\csso.min.js133039536627600093 0
@@ -209,6 +207,18 @@
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml\node_modules\posthtml-parser\readme.md133039536625266318 0
 84C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin133039632322262992 1
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\remove\rimraf.js133039632308930831 0
+122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml-parser\dist\location-tracker.d.ts133039536626034266 0
+101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_hashDelete.js133039632311488229 0
+96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\path-is-absolute133039632307504665 1
+105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\types.js133039533431291300 0
+108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@types\parse-json\index.d.ts133039536624179226 0
+98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\find-up\index.d.ts133039632307265290 0
+129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\SobelOperatorShader.js133039505117287804 0
+132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\webgl\nodes\SlotNode.js133039505117008519 0
+101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_createFind.js133039632310755964 0
+103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dotenv-expand\README.md133039533425747617 0
+102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\msgpackr\node-index.js133039533426929580 0
+86C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache133039641326663433 1
 92C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml\lib133039603284890123 1
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\msgpackr-extract\src133039603268670639 1
 89C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\js-tokens133039603242752903 1
@@ -348,6 +358,10 @@
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\lights\RectAreaLightUniformsLib.js133039505114546607 0
 146C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\encodings_fragment.glsl.js133039505098616978 0
 88C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree133039603155727666 1
+99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\terser\lib\compress133039603320034819 1
+128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\VerticalBlurShader.js133039505124018043 0
+110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\internal\withoutIndex.js133039632310257302 0
+84C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso133039603176961105 1
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\utils\MaxMipLevelNode.js133039505106200147 0
 87C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dat.gui133039603188903897 1
 139C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\webgpu\WebGPURenderPipeline.js133039505127328858 0
@@ -373,6 +387,7 @@
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_async_to_generator.mjs133039536629285589 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\utils\BufferGeometryUtils.js133039505094393648 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\lines133039603423204562 1
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\73\fb08f2525e67d487badf39ccf31bf730a895d2133039682167877473 0
 86C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dotenv133039603201137263 1
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\wasm.js133039533440282376 0
 149C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\bumpmap_pars_fragment.glsl.js133039505094453543 0
@@ -382,6 +397,7 @@
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\loaders\BasisTextureLoader.js133039505093105463 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\packager-svg\lib133039602952852350 1
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\loaders\3DMLoader.js133039505089800318 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\info\exclude133039641327744544 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@lmdb\lmdb-win32-x64133039602865974301 1
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\type-fest\base.d.ts133039536625376032 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\dist\PixiPlugin.min.js133039516706288033 0
@@ -389,6 +405,7 @@
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\electron-to-chromium133039603204008231 1
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\path-type\index.d.ts133039536623511007 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\DigitalGlitch.js133039505096933404 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\a1133039641465227028 1
 150C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\displacementmap_vertex.glsl.js133039505097023169 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\postcss-value-parser133039603283094573 1
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml-render\readme.md133039536625116714 0
@@ -434,7 +451,7 @@
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\loaders\ImageBitmapLoader.js133039505102751100 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\last.js133039632317571005 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\partition.js133039632318810006 0
-89C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.548b4c18.js133039641194898489 0
+89C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.548b4c18.js133039688369195658 0
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\helpers\LightProbeHelper.js133039505103853909 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-image\src133039602978369567 1
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\browser\types\pairs.js133039536626951818 0
@@ -585,8 +602,8 @@
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\concat-map\index.js133039632307394962 0
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\utils\PreviewEditor.js133039505113484797 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\clone\README.md133039533425039516 0
-106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\animation\tracks133039603485616528 1
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-what\lib\commonjs\index.js133039536623999700 0
+106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\animation\tracks133039603485616528 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LI.js133039533436332944 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\ordered-binary\rollup.config.js133039533425598022 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\dist\util.js133039536628318165 0
@@ -666,9 +683,6 @@
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\msgpackr\pack.d.ts133039533428056565 0
 90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\parse-json133039603281139795 1
 90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\terser\lib133039603320225951 1
-122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml-parser\dist\location-tracker.d.ts133039536626034266 0
-101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_hashDelete.js133039632311488229 0
-96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\path-is-absolute133039632307504665 1
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\namer-default133039602924746214 1
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\source-map\package.json133039536623171925 0
 91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\safe-buffer133039603292243872 1
@@ -720,6 +734,7 @@
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\svgo\plugins\convertShapeToPath.js133039536627191181 0
 134C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133039533429861745 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\source-map-support133039603298354397 1
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\23\1b175502f750ce1d5f69eb03cf9ebf11ea00a0133039665240196165 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\src133039602982592297 1
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\libs\rhino3dm\rhino3dm.js133039505115355153 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\controls\FlyControls.js133039505100083032 0
@@ -750,6 +765,7 @@
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\postprocessing\EffectComposer.js133039505098557112 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\MP.js133039533436941298 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\interactive\InteractiveGroup.js133039505102903226 0
+167C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-receive.sample133039641327698605 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\supports-color133039603299612286 1
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133039536626941841 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\README.md133039632322103435 0
@@ -938,15 +954,18 @@
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-text-justify.js133039533432652763 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\findLast.js133039632315393508 0
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\dist\PlainValue-ec8e588e.js133039536627510315 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ac\a4988f24b92f3fdbe4e11a5bf9fb8172120a7c133039647611492069 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\textures133039603535060013 1
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\dist\resolveSeq-d03cb037.js133039536627689856 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\has.js133039632316131126 0
+147C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs133039641444132722 1
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\svgo\lib\svgo\css-select-adapter.js133039536627450482 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-animation.js133039533430840272 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\util133039632308970736 1
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\LICENSE133039533424570779 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\dist\Schema-88e323a7.js133039536627809516 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\stubArray.js133039632320308442 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ef\f9207d3ac1be5e77e512fc116696c198f22015133039686559624836 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\mergeAllWith.js133039632318026459 0
 145C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main133039602931647594 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\dist\types.js133039536628238369 0
@@ -969,10 +988,10 @@
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\negate.js133039632318229140 0
 142C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\aomap_fragment.glsl.js133039505091595927 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\LICENSE133039632307165555 0
-127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\trace-mapping\src\strip-filename.ts133039536627151279 0
-124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\RGBShiftShader.js133039505115012905 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\fs133039632308551849 1
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\fog\FogRangeNode.js133039505100242592 0
+127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\trace-mapping\src\strip-filename.ts133039536627151279 0
+124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\RGBShiftShader.js133039505115012905 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\browser\map.js133039536626513000 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\yaml\browser\parse-cst.js133039536627191181 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_nativeCreate.js133039632312028905 0
@@ -1054,6 +1073,7 @@
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\globals\index.js133039536623530953 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\type-fest\source\partial-deep.d.ts133039536627480399 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\wrappy\package.json133039632307135659 0
+176C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs\remotes\origin\gh-pages133039686582950676 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\fonts\ttf\kenpixel.ttf133039505129760512 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\geometries\TetrahedronGeometry.js133039505120581175 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lz4\lib133039603257208412 1
@@ -1079,6 +1099,7 @@
 137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133039533430021313 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\WebGL1Renderer.js133039505125675965 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dotenv\package.json133039533424540847 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bc133039647611987074 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\weak-lru-cache\rollup.config.js133039533426016901 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\objects133039603510815020 1
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\markdown-ansi\test133039602924197681 1
@@ -1143,6 +1164,7 @@
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\utility-types\dist\mapped-types.js133039533425927137 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\exporters\OBJExporter.js133039505111118815 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\isMap.js133039632316959900 0
+152C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\tags133039641327754564 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\utils.js133039505123381033 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\util.js133039632321605609 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml-parser\dist\location-tracker.js133039536624578160 0
@@ -1152,6 +1174,7 @@
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_ts_param.js133039536629006323 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\utility-types\dist\mapped-types.js.map133039533427079176 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\math\Line3.js133039505104197098 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\37\d7a98d89e2526bc6c60d4c756157385445b636133039641465915074 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\utility-types\dist\utility-types.js133039533426321213 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\custom-bounce.d.ts133039516708118723 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\animation\MMDAnimationHelper.js133039505108316561 0
@@ -1269,6 +1292,7 @@
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\meta-theme-color.js133039533436791698 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\type-fest\source\literal-union.d.ts133039536627131327 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\wrapperLodash.js133039632321870019 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7b133039685392578461 1
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_asciiToArray.js133039632308641625 0
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\audio\AudioAnalyser.js133039505092537544 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\type-fest\source\merge-exclusive.d.ts133039536627181196 0
@@ -1516,6 +1540,7 @@
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\browserslist\parse.js133039533426630382 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\property.js133039632319009072 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk.js133039505116200534 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\75\f0cda7d471da8158a72125882322df24f571b4133039683909242533 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@babel\helper-validator-identifier\lib\index.js133039536624568180 0
 149C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\map_particle_fragment.glsl.js133039505105873135 0
 90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\json5\dist133039603244927413 1
@@ -1584,7 +1609,9 @@
 142C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\default_vertex.glsl.js133039505096793780 0
 145C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\lights_pars_begin.glsl.js133039505103986032 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\bind.js133039632313296776 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\1f133039686560069022 1
 155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\displacementmap_pars_vertex.glsl.js133039505097013191 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\73133039682167887796 1
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\webxr\Text2D.js133039505120601144 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\supports-color\readme.md133039533425727670 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@lezer\common\package.json133039533426341172 0
@@ -1613,9 +1640,12 @@
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\transforms3d.js133039533439554311 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\lazyload.js133039533436273082 0
 134C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\inputs\Vector2Editor.js133039505123819205 0
+167C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs\heads\gh-pages133039686562158389 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\94\317fb5c9f1408aa09f9b4f89949568ec58243d133039686560168804 0
 141C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_vertex.glsl.js133039505098726646 0
 145C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\fog_pars_fragment.glsl.js133039505100152832 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\clean\index.js133039536627789569 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\75133039683909646312 1
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\cameras\ArrayCamera.js133039505092248296 0
 153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\gradientmap_pars_fragment.glsl.js133039505102303598 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\physics133039603462835370 1
@@ -1645,6 +1675,7 @@
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\intersectionBy.js133039632316384738 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\utils\CameraUtils.js133039505094551202 0
 148C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\logdepthbuf_fragment.glsl.js133039505104485779 0
+162C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\assets\monkey.glb133039686558797033 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\parcel-reporter-static-files-copy\.github133039603280042756 1
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\lodash.js133039632317636698 0
 153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\renderers\shaders\ShaderChunk\logdepthbuf_pars_fragment.glsl.js133039505104495607 0
@@ -1802,6 +1833,7 @@
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\math\MathUtils.js133039505106140311 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\abortcontroller-polyfill\README.md133039533427587818 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\math\Matrix3.js133039505106160242 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\dd\14d06e2c372eb103f235fb2eb2c91463e08d46133039665237015991 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\domutils\package.json133039536626193839 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\nth-check\lib\esm\compile.js133039536624348800 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\math\Plane.js133039505112743748 0
@@ -1852,6 +1884,7 @@
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\motion-path-plugin.d.ts133039516708826837 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\commondir\test\dirs.js133039632307873667 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\materials\MeshToonMaterial.js133039505108049957 0
+137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git133039686558737186 1
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-react-refresh\package.json133039536624717788 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133039536626353412 0
 135C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\functions\BSDF\BRDF_Lambert.js133039505094216947 0
@@ -1951,6 +1984,7 @@
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\index.d.ts133039536626672622 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\test\InternalAsset.test.js133039533430121049 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\escape-string-regexp\license133039536624139329 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e4\e2a2e0afe8080eca3a23d0e0548de0d8133d1d133039641465895103 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\geometries\ExtrudeGeometry.js133039505099285464 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\src\geometries\IcosahedronGeometry.js133039505102646928 0
 138C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\procedural\CheckerEditor.js133039505094675708 0
@@ -2071,10 +2105,10 @@
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\lines\LineGeometry.js133039505104296099 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\accessors\Object3DNode.js133039505110809692 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\cameras133039603405044280 1
-131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-container-queries.js133039533431099576 0
-104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-gyp-build\README.md133039533426540621 0
-123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\SVGRenderer.js133039505119933203 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\pkg-dir\index.d.ts133039632307285233 0
+131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-container-queries.js133039533431099576 0
+123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\SVGRenderer.js133039505119933203 0
+104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-gyp-build\README.md133039533426540621 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\controls133039603406849462 1
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\iframe-seamless.js133039533435205938 0
 91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\terser\dist133039603314892629 1
@@ -2086,6 +2120,7 @@
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\CHANGELOG.md133039536628477739 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\modifiers\EdgeSplitModifier.js133039505098247336 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\clamp.js133039632313666325 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\a1\f93b7a26f523d6992058f9adc3bb8fa12aebd1133039686559475352 0
 134C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133039602909507241 1
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-letter-spacing.js133039533431670295 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\exporters133039603411148731 1
@@ -2204,14 +2239,6 @@
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133039536626443173 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dom-serializer\lib\esm\package.json133039536625505693 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\SepiaShader.js133039505116180589 0
-105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\types.js133039533431291300 0
-108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@types\parse-json\index.d.ts133039536624179226 0
-98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\find-up\index.d.ts133039632307265290 0
-129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\SobelOperatorShader.js133039505117287804 0
-132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\renderers\webgl\nodes\SlotNode.js133039505117008519 0
-101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_createFind.js133039632310755964 0
-103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dotenv-expand\README.md133039533425747617 0
-102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\msgpackr\node-index.js133039533426929580 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-svg\test133039602989670991 1
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\svgo\plugins\inlineStyles.js133039536627620158 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\shaders\SSAOShader.js133039505118427253 0
@@ -2289,6 +2316,7 @@
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\misc\MD2CharacterComplex.js133039505106629507 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\nAry.js133039632318199235 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\helpers\VertexTangentsHelper.js133039505123988115 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ff\485aa362a5c6072c4915998ab820938470fcb1133039685390766695 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\postprocessing\AfterimagePass.js133039505089999767 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\size.js133039632319878411 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\misc\Gyroscope.js133039505102393572 0
@@ -2380,6 +2408,7 @@
 139C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\materials\MeshBasicNodeMaterial.js133039505107038378 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\materials\NodeMaterial.js133039505109922231 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\loaders\lwo\LWO2Parser.js133039505105760755 0
+166C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-commit.sample133039641327658614 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\math\SimplexNoise.js133039505116739291 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\CHANGELOG.md133039632307434834 0
 136C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\nodes\materials\PointsNodeMaterial.js133039505113326534 0
@@ -2490,6 +2519,7 @@
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\inputs133039603441821713 1
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133039533428505363 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\math133039603443308113 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\c5133039679466862046 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\globals\index.d.ts133039536625376032 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\backend.js133039533425229002 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\NodeEditor.js133039505109812509 0
@@ -2539,6 +2569,7 @@
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_create_super.js133039536627879338 0
 135C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\examples\animate-uv.json133039505127996900 0
 139C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\node-editor\examples\fake-top-light.json133039505128934632 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bf\e7e3be74023a23f638f343d5f828c4ad2e2ca9133039662464027871 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\posthtml-parser\readme.md133039536625655287 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\utils\test\DefaultMap.test.js133039533427478112 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\filter.js133039632315244160 0
@@ -2757,6 +2788,7 @@
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\exporters\STLExporter.js133039505118856054 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\exporters\USDZExporter.js133039505123341593 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\invertBy.js133039632316487602 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\eb\bd356fd701c697ec8abbb93a5deb0f10219659133039686561627929 0
 159C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm_bg.wasm133039533430481219 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\jsm\environments\DebugEnvironment.js133039505096723966 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-addon-api\tools\conversion.js133039533427597790 0
@@ -2808,6 +2840,7 @@
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\controls133039603343092123 1
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\curves133039603344488334 1
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\effects133039603345445792 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e2133039683912800777 1
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\geometries133039603348793532 1
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\helpers133039603349804937 1
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\libs133039603355030629 1
@@ -2953,6 +2986,7 @@
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\postprocessing\SSRPass.js133039505118457119 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-scrollbar.js133039533432513151 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\dist\CustomEase.min.js.map133039516707201169 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ea\33711cc1e6d1bf29f8724cd267a5a1dae7d6dc133039662464502042 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\heif.js133039533434737202 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\postprocessing\TAARenderPass.js133039505119952919 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\isMatch.js133039632316969827 0
@@ -2992,6 +3026,7 @@
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\fonts\open-sans\open-sans.css133039505089640735 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\misc\RollerCoaster.js133039505115600469 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\flatten.js133039632315623119 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\remotes133039641512652759 1
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\misc\TubePainter.js133039505122458155 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\misc\VolumeSlice.js133039505124615581 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\intersectionWith.js133039632316410502 0
@@ -3024,6 +3059,7 @@
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\acorn\dist\acorn.mjs.d.ts133039536626802208 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\cosmiconfig\dist\types.d.ts.map133039536627610051 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\math\SimplexNoise.js133039505116709197 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e4133039641465905074 1
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\loaders\3MFLoader.js133039505089830229 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\move-sync133039632308821158 1
 171C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js133039536628238369 0
@@ -3152,6 +3188,7 @@
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\innertext.js133039533435475216 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\effects\OutlineEffect.js133039505112362140 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_baseAssignIn.js133039632308741497 0
+166C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\commit-msg.sample133039641327618713 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\effects\ParallaxBarrierEffect.js133039505112461879 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\js-tokens\package.json133039536623191925 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\three\examples\js\effects\PeppersGhostEffect.js133039505112656683 0
@@ -3389,6 +3426,7 @@
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\source-map\dist\source-map.min.js.map133039536627659916 0
 90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\semver\bin133039603293863099 1
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\curryRight.js133039632314227255 0
+158C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs\heads133039641444142707 1
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\assignWith.js133039632313170504 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\parse-json\license133039536623201829 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\semver\LICENSE133039533424540847 0
@@ -3576,6 +3614,7 @@
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-gyp-build-optional-packages\package.json133039533426261364 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-select\lib\general.js133039536625515651 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133039533430081151 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\74133039682165104245 1
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-image\package.json133039536625874701 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-gyp-build\bin.js133039533424740310 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\sample.js133039632319776621 0
@@ -3585,6 +3624,7 @@
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\dist\Flip.min.js133039516705370409 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\source-map\package.json133039533428036618 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-addon-api\CHANGELOG.md133039533427986753 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\monkey.glb133039686558807002 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\lexer\index.js133039536628826840 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-addon-api\common.gypi133039533424939777 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\node-addon-api\tools\README.md133039533428176253 0
@@ -3677,6 +3717,7 @@
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\dist\gsap.js133039516705719527 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dat.gui\example.html133039516020337645 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\README.md133039536627630069 0
+94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.dfa5caa6.css.map133039688369514814 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\dist\unpacker133039603139148558 1
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\trimStart.js133039632321181360 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-image\native.js133039536624647973 0
@@ -3690,6 +3731,7 @@
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\css\selectors.json133039536627191181 0
 155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133039533429941524 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\css\selectors.schema.json133039536627260983 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\d5133039649702354070 1
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\css\syntaxes.json133039536627340790 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\eq.js133039632315071138 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\css\types.json133039536627460458 0
@@ -3697,6 +3739,7 @@
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\toInteger.js133039632320813502 0
 169C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133039536629325476 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\templateSettings.js133039632320696700 0
+152C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs133039641512672497 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\function.js133039632315990590 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\css\units.json133039536627550220 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\mdn-data\api\index.js133039536623919908 0
@@ -3834,6 +3877,7 @@
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\padStart.js133039632318729354 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\forOwnRight.js133039632315930742 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\color.js133039536626782267 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\94\074fd06ea99561514634407a098780b2c42a47133039649701877352 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\functions.js133039632316020674 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\get.js133039632316058289 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\groupBy.js133039632316078235 0
@@ -3889,6 +3933,7 @@
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\kebabCase.js133039632317457186 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133039536623979755 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\keyBy.js133039632317489818 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\32133039682165064330 1
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\keys.js133039632317511131 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\atrule\keyframes.js133039536627969096 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\dist\lib\statuses.js133039533438965894 0
@@ -3920,6 +3965,7 @@
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\multiply.js133039632318189251 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\remove.js133039632319522348 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_escapeStringChar.js133039632311210815 0
+152C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\ORIG_HEAD133039686558074568 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\next.js133039632318254332 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\noop.js133039632318272276 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\VU.js133039533440242486 0
@@ -3931,6 +3977,7 @@
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\mapValues.js133039632317808151 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\json5\dist\index.mjs133039533427867074 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\object.js133039632318372062 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\10133039683912890540 1
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\omitBy.js133039632318441856 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\over.js133039632318531776 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dat.gui\src\dat\controllers133039603187419937 1
@@ -3995,6 +4042,7 @@
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\sumBy.js133039632320456890 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\take.js133039632320535066 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\takeWhile.js133039632320632730 0
+159C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\index.548b4c18.js.map133039686558956651 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\entities\lib\generated\decode-data-xml.d.ts133039536627330801 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\tap.js133039632320652676 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@lmdb\lmdb-win32-x64\index.js133039533424391249 0
@@ -4152,6 +4200,7 @@
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_baseSample.js133039632309928171 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_baseSetData.js133039632309978055 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133039533430780430 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\f0133039682167977191 1
 135C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133039536625036932 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\_baseShuffle.js133039632310007967 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\RequestTracker.js133039533430870183 0
@@ -4344,6 +4393,7 @@
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\isNaN.js133039632317013854 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\test\serializer.test.js133039533430969913 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\assoc.js133039632313187036 0
+157C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\monkey.468239f1.glb133039686558816998 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\detect-libc\package.json133039533424520900 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\assocPath.js133039632313207246 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-select\lib133039603152151935 1
@@ -4442,7 +4492,6 @@
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\gt.js133039632316088249 0
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\gte.js133039632316111189 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\subtract.js133039632320400685 0
-94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.dbe35270.css.map133039641195198021 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\identical.js133039632316183640 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\includesFrom.js133039632316240730 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\_baseConvert.js133039632308851077 0
@@ -4606,6 +4655,7 @@
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\symmetricDifferenceBy.js133039632320476827 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dat.gui\build\dat.gui.js.map133039516021707730 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\path-exists\index.js133039632308890941 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e2\eb956d239c916243f3dc5320b063cec03e995f133039682165124457 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh133039533428236090 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\foldl.js133039632309319797 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\symmetricDifferenceWith.js133039632320486950 0
@@ -4640,6 +4690,7 @@
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\serviceworkers.js133039533438686632 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\unionWith.js133039632321321014 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\uniq.js133039632321352967 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bf\a8c8f1dbd7c967c9f95fd80370ed4f36ba9fff133039686560238910 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lodash\fp\uniqBy.js133039632321369918 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@babel\code-frame\package.json133039536624568180 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\internal\consoleFunc.js133039632308861029 0
@@ -4689,7 +4740,7 @@
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\src\misc.cpp133039533430351575 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\src\ordered-binary.cpp133039533430371525 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\package.json133039536628437838 0
-91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\nebula.c03bde14.jpg133039641136300494 0
+91C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\nebula.c03bde14.jpg133039688308186444 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\src\v8-functions.cpp133039533430421521 0
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\src\windows.c133039533430101114 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\src\writer.cpp133039533430441326 0
@@ -4755,6 +4806,7 @@
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133039533426730130 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dat.gui\src\dat\controllers\ColorController.js133039516020480847 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133039533430491196 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\FETCH_HEAD133039686555684477 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133039533427747393 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133039533428136350 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133039533428305897 0
@@ -4819,6 +4871,7 @@
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\Parser.d.ts133039536626752345 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\Parser.js133039536624687922 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\Tokenizer.js133039536625166588 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\48\38b43d6d2ceaee6bf71835984d79191030a938133039685392478720 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\htmlparser2\lib\WritableStream.d.ts133039536626931875 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\packager-svg133039602952912500 1
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\brace-expansion\README.md133039632307534574 0
@@ -4904,6 +4957,7 @@
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-appearance.js133039533430870183 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\inertia-plugin.d.ts133039516708776962 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\observer.d.ts133039516708846768 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\index.548b4c18.js133039686558876814 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\physics-2d-plugin.d.ts133039516708856743 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\pixi-plugin.d.ts133039516708896639 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\gsap\types\split-text.d.ts133039516708986402 0
@@ -4980,6 +5034,7 @@
 92C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib133039632308930831 1
 96C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\LICENSE133039632307574462 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\package.json133039632307155584 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\48133039686562118521 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\README.md133039632307753982 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\copy-sync133039632307953471 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\fs-extra\lib\empty133039632308282571 1
@@ -5028,6 +5083,7 @@
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\dom-serializer\node_modules\entities\lib\encode.js133039536624647973 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\escape-string-regexp\package.json133039536623161947 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\escape-string-regexp\readme.md133039536624488395 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\32\b09cd3ae5147e1f1ea5bbfd1aa91534e95112a133039683909222639 0
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\escalade\index.d.ts133039533426730130 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\AttributeSelector.js133039536626483066 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\HN.js133039533435016461 0
@@ -5175,6 +5231,7 @@
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133039533433301023 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\GW.js133039533434657409 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\Atrule.js133039536626393310 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7b\48a0804218dd8c17afd2403afdccaf2f019cf0133039685392558508 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\NO.js133039533437330269 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\clean\utils.js133039536628308188 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\csso\lib\replace\index.js133039536627859388 0
@@ -5218,11 +5275,13 @@
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\utils\clone.js133039536626862063 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\syntax\pseudo\not.js133039536629235718 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\utils\createCustomError.js133039536627620158 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\info133039641327882419 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\PH.js133039533437858858 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\utils\names.js133039536629225734 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\tokenizer\const.js133039536627091436 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\syntax\atrule133039603161698917 1
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\syntax\config133039603162277363 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ff133039685390786643 1
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\syntax\index.js133039536628866692 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133039536630272932 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-tree\lib\syntax\pseudo133039603169336114 1
@@ -5332,6 +5391,7 @@
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-select\lib\pseudo-selectors\aliases.js133039536623999700 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\trace-mapping\src\sort.ts133039536626892069 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-select\lib\pseudo-selectors\filters.js133039536625206477 0
+148C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\img133039686558717256 1
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_object_spread_props.js133039536628587437 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133039536627251011 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\css-select\lib\pseudo-selectors\index.d.ts133039536627789569 0
@@ -5419,6 +5479,7 @@
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chrome-trace-event\LICENSE.txt133039533426610432 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133039533431740097 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chrome-trace-event\package.json133039533424790179 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\8a133039641469806367 1
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chrome-trace-event\README.md133039533425917171 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chrome-trace-event\dist\trace-event.d.ts133039533426381041 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\chrome-trace-event\dist\trace-event.js.map133039533425149217 0
@@ -5556,10 +5617,12 @@
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LA.js133039533436263124 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LB.js133039533436283057 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\node-gyp-build-test.ps1133039533441120262 0
+157C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\COMMIT_EDITMSG133039686562088604 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LC.js133039533436303002 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LK.js133039533436442632 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\set-array\src133039602853730427 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LR.js133039533436492498 0
+174C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\fsmonitor-watchman.sample133039641327628687 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LS.js133039533436502471 0
 100C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\timesSeries.js133039632310157560 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\LU.js133039533436542374 0
@@ -5578,6 +5641,7 @@
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\MT.js133039533437041052 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\MU.js133039533437051008 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\MX.js133039533437140771 0
+160C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\refs\remotes133039641512672497 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\MY.js133039533437160721 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-babel\LICENSE133039536623251707 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\NC.js133039533437240506 0
@@ -5614,6 +5678,7 @@
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\SH.js133039533438726527 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\SK.js133039533438806311 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\SN.js133039533438836235 0
+158C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\img\stars.jpg133039686558896765 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\utils\test\prettifyTime.test.js133039533429492724 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\SO.js133039533438856194 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\SV.js133039533439045674 0
@@ -5639,6 +5704,7 @@
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\VN.js133039533440192623 0
 104C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\index.js133039533428605095 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\YT.js133039533440771208 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\41133039665240126428 1
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\regions\ZM.js133039533440800981 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\aac.js133039533424949752 0
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\abortcontroller.js133039533425368635 0
@@ -5688,6 +5754,7 @@
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\comparedocumentposition.js133039533430630820 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\console-time.js133039533430650767 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\browserslist-lint.ps1133039533441130107 0
+206C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\pack\pack-2d781ee97d9cbb4fba034a0f16b1dbb51e236ee4.pack133039686561617960 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\const.js133039533430670720 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\constraint-validation.js133039533430680701 0
 132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133039533430720580 0
@@ -5706,6 +5773,7 @@
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@lezer\common\dist\tree.d.ts133039533427089149 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-cascade-layers.js133039533431009807 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-clip-path.js133039533431039733 0
+160C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\index.dfa5caa6.css.map133039686558777082 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\reporter-dev-server\src\templates\500.html133039536624717788 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-color-function.js133039533431069654 0
 135C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-container-query-units.js133039533431119512 0
@@ -5772,13 +5840,14 @@
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-selection.js133039533432553038 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-snappoints.js133039533432572974 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-sticky.js133039533432592921 0
-82C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.html133039641194898489 0
+82C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.html133039688369195658 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-subgrid.js133039533432602893 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-text-align-last.js133039533432632817 0
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-text-indent.js133039533432642787 0
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-text-orientation.js133039533432662737 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-textshadow.js133039533432692656 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-touch-action-2.js133039533432702629 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bd133039679466951814 1
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\RequestTracker.js133039533430850237 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\fs\lib\types.d.ts133039533427996723 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133039533432732572 0
@@ -5946,6 +6015,7 @@
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\object-fit.js133039533437519750 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\object-observe.js133039533437539700 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\object-values.js133039533437549685 0
+147C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs133039641512652759 1
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\objectrtc.js133039533437559647 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@jridgewell\source-map\package.json133039536624418583 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\offline-apps.js133039533437569628 0
@@ -6027,6 +6097,7 @@
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\sxg.js133039533439165354 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\template-literals.js133039533439235181 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\template.js133039533439245150 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7c133039649700291566 1
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\types.js133039533431281324 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\temporal.js133039533439255131 0
 125C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\text-decoration.js133039533439285035 0
@@ -6039,16 +6110,18 @@
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\tls1-1.js133039533439434640 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\tls1-2.js133039533439444606 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\token-binding.js133039533439504449 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\heads133039686562168365 1
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\transforms2d.js133039533439544342 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\trusted-types.js133039533439584242 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\ttf.js133039533439604180 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\u2f.js133039533439664023 0
+156C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\stars.cf888a00.jpg133039686558896765 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\unhandledrejection.js133039533439703925 0
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133039533439713890 0
 137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133039533439723877 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\url.js133039533439733926 0
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\vector-effect.js133039533440082899 0
-85C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\assets133039641195357271 1
+85C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\assets133039688369694344 1
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\video.js133039533440132764 0
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\videotracks.js133039533440152728 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\webxr.js133039533440561627 0
@@ -6065,6 +6138,7 @@
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\websockets.js133039533440491813 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\webvr.js133039533440531708 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\webworkers.js133039533440551652 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ea133039662464522098 1
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\woff.js133039533440611498 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\woff2.js133039533440621467 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\word-break.js133039533440631441 0
@@ -6073,6 +6147,7 @@
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\caniuse-lite\data\features\xhtml.js133039533440721206 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\callsites\license133039536624498412 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\callsites\package.json133039536623201829 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\dd133039665237025963 1
 98C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\events\lib133039602913393546 1
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\graph133039602920168448 1
 99C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\callsites\readme.md133039536624827489 0
@@ -6138,6 +6213,7 @@
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\parallel.js133039632309728703 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\priorityQueue.js133039632309758644 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\queue.js133039632309788553 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\5d\053638d807a372a4f361132579f4ce3deb9be3133039659665912554 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-babel\README.md133039536627241050 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\race.js133039632309808492 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\async\reduce.js133039632309818468 0
@@ -6275,6 +6351,7 @@
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_sliced_to_array.mjs133039536630123333 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\ReporterRunner.js133039533430810357 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_super_prop_base.mjs133039536630143287 0
+172C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\push-to-checkout.sample133039641327718504 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\package-manager\index.d.ts133039533429602439 0
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_to_array.mjs133039536630183176 0
 117C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\src\_to_property_key.mjs133039536630223079 0
@@ -6319,6 +6396,7 @@
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_object_spread.js133039536628567490 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_possible_constructor_return.js133039536628657255 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_skip_first_generator_next.js133039536628776949 0
+155C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\pack133039641444182592 1
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_super_prop_base.js133039536628836773 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_to_array.js133039536628916566 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@swc\helpers\lib\_to_consumable_array.js133039536628936513 0
@@ -6387,7 +6465,7 @@
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\utils\src\alternatives.js133039533425189114 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\bus.js133039533426056790 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\child.js133039533426640354 0
-82C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\img133039641195447025 1
+82C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\img133039688369774122 1
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\childState.js133039533426919600 0
 111C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\cpuCount.js133039533427348463 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\workers\src\index.js133039533427916942 0
@@ -6426,6 +6504,8 @@
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\windows\win_utils.hh133039533428525310 0
 116C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\watchman\BSER.hh133039533428016671 0
 115C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\watchman\IPC.hh133039533428305897 0
+166C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-rebase.sample133039641327688571 0
+148C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\index133039686562038717 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133039533428495392 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\unix\legacy.cc133039533427218806 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh133039533427966805 0
@@ -6486,6 +6566,7 @@
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\types\lib133039602990683482 1
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\types\LICENSE133039533424590710 0
 108C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\types\lib\index.d.ts133039533426700187 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e0133039647609906298 1
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\types\lib\unsafe.d.ts133039533426849798 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\public\Environment.js133039533429891666 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-svg\lib133039602988813275 1
@@ -6521,6 +6602,7 @@
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133039536625904618 0
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-json\LICENSE133039536623251707 0
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-json\src\JSONTransformer.js133039536624368718 0
+147C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\info133039641327744544 1
 132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133039602907551669 1
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\lib133039602982123525 1
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\LICENSE133039536623291594 0
@@ -6535,6 +6617,7 @@
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\src\JSTransformer.js133039536625316184 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\src\loadNative.js133039536625834797 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133039536623999700 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bf133039662464422250 1
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-js\lib\loadNative.js133039536625635333 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-image\LICENSE133039536623251707 0
 129C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\transformer-image\src\ImageTransformer.js133039536624378689 0
@@ -6604,6 +6687,7 @@
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133039536627510315 0
 132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133039536626532928 0
 137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133039536627789569 0
+144C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets133039686558717256 1
 136C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js133039536627859388 0
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133039536628008986 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\browser133039602960409558 1
@@ -6614,6 +6698,7 @@
 130C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133039536627919243 0
 132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133039536626213797 0
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133039536626892069 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\4d133039647609936218 1
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133039536627270957 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\cache\src\index.js133039533426919600 0
 133C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133039536627889307 0
@@ -6707,11 +6792,13 @@
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-htmlnano\src133039602938236223 1
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133039536624398687 0
 131C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133039536623979755 0
+150C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\shallow133039641334471334 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-css\LICENSE133039536623281633 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-css\package.json133039536624727771 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\optimizer-css\src133039602937341358 1
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture133039602935453990 1
 123C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\resolver.js133039536628976409 0
+174C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\prepare-commit-msg.sample133039641327708493 0
 149C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133039602931398268 1
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133039602926696879 1
 132C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\node-resolver-core\test\fixture\package.json133039536629644626 0
@@ -6786,6 +6873,7 @@
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\namer-default\lib133039602924676417 1
 121C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\namer-default\lib\DefaultNamer.js133039536623979755 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\markdown-ansi\lib133039602923798744 1
+170C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-applypatch.sample133039641327648763 0
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\markdown-ansi\LICENSE133039533424531039 0
 102C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\logger\LICENSE133039533424570779 0
 106C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\hash\index.js.flow133039533424770229 0
@@ -6827,6 +6915,7 @@
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\json5.ps1133039533441120262 0
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\public\Asset.js133039533428036618 0
 105C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\fs\lib\browser.js133039533424999619 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\94133039649702274304 1
 109C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\fs\lib\browser.js.map133039533427577843 0
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\fs\lib\index.js133039533426341172 0
 107C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\fs\lib\index.js.map133039533427887027 0
@@ -6919,6 +7008,7 @@
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133039533430511141 0
 122C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\requests\TargetRequest.js133039533431179357 0
 126C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\requests\ValidationRequest.js133039533431420962 0
+162C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\heads\gh-pages133039686562148416 0
 128C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133039533431500750 0
 113C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\public\Bundle.js133039533428814536 0
 118C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\src\public\BundleGroup.js133039533429283288 0
@@ -6931,6 +7021,7 @@
 110C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\Dependency.js133039533429602439 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\PackagerRunner.js133039533430391462 0
 119C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\ParcelConfig.schema.js133039533430551035 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\5d133039659665922548 1
 103C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\public133039602887208050 1
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\ReporterRunner.js133039533430800376 0
 114C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@parcel\core\lib\resolveOptions.js133039533430910075 0
@@ -6970,6 +7061,7 @@
 140C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi93.node133039533426086722 0
 139C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133039533426730130 0
 137C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133039533424670501 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\90133039662461301370 1
 134C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133039533424959729 0
 112C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@mischnic\json-sourcemap\LICENSE133039533424550822 0
 120C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133039533425548154 0
@@ -7057,6 +7149,59 @@
 127C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@babel\helper-validator-identifier\package.json133039536625216456 0
 124C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@babel\helper-validator-identifier\README.md133039536623501033 0
 101C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\@babel\code-frame\lib133039602841330707 1
+95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages133039641327317580 1
+142C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git133039686562168365 1
+156C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\index.dfa5caa6.css133039686558777082 0
+148C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\index.html133039686558787057 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\d5\1f5d0bf90dafc828931103cd931364e5904dbe133039649702344191 0
+157C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\nebula.c03bde14.jpg133039686558916878 0
+151C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\assets133039686558717256 1
+159C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\assets\img\nebula.jpg133039686558916878 0
+149C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\config133039686560911344 0
+154C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\description133039641327598529 0
+148C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks133039641327718504 1
+150C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects133039686562348204 1
+154C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\packed-refs133039641444032435 0
+162C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\remotes\origin133039686582960669 1
+171C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\refs\remotes\origin\gh-pages133039686582931039 0
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\11133039665236996022 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\23133039665240216121 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\37133039641465935540 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\4c133039659666012312 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7d133039647609886350 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\81133039659662766689 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ac133039647611887339 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\c2133039641465875282 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\eb133039686562028918 1
+153C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\ef133039641465845230 1
+205C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\pack\pack-2d781ee97d9cbb4fba034a0f16b1dbb51e236ee4.idx133039641443055063 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\f0\3d696fbf2be53a4f48a893d3534715ea7316de133039682167967220 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e2\a9401022fdb7d98229682d32cf51e65739f0ca133039683912388981 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e0\07a2e4f72ed9ecc214831e6eb9350d9961da83133039641469876184 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\e0\ebe9ac9ec4751c0db6587e15a3f20ffd3e01a7133039686559644755 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bc\33fe93f8267f4572fdef39070fb6c6b11d45d6133039647611977097 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\c5\7c2c6135659170bb28925950aa93aa4ef57165133039679466458168 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\c2\fd45656de4d67bc586792878d0ee5c5530028f133039641465865414 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\bd\60969edc86db501e7e3da00bb67ddb10e84ebf133039679466941847 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\90\58f3f84fcfa190ea011d2f72e64b08b03e658b133039679463376377 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\8a\87508f43ae4c7140f81662c34f2d57fbb01216133039641469404921 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\81\fb3067da49124cc2e62ef33daa8372c14670b0133039659662363726 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7d\ec667eb92eb8c3c1f1eb81bbef7d1627158a25133039686559634873 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\7c\3ec749b18c42ce83bb8ead041fc9337063b932133039653057987293 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\74\b103fd1179301a1acc5955cb95f2b3c25b0c59133039683909232574 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\4d\691feb66f39534b5dde1d31251081d583a1721133039647609926249 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\4c\7b00209a7640f2e98e6d1c98011edde8794aa4133039659665992545 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\48\6ab0dce705be146e3211ff499a2aeb4bfa30ba133039686562098579 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\41\e59274507876c5c6ac48e3065eece1e1d56fba133039665239729755 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\1f\769a86406383bd82e61e64a1aaee2afa833ef5133039686559664706 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\11\fbec7c64bcab19eaebc3d19e14c918c0f07766133039679463366397 0
+192C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\objects\10\b1ce8fb0041f7f5ed271093a0ab24a58d34b80133039683912870591 0
+152C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\logs\HEAD133039686562158389 0
+170C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\applypatch-msg.sample133039641327608811 0
+167C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\post-update.sample133039641327638666 0
+172C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-merge-commit.sample133039641327668904 0
+164C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\pre-push.sample133039641327678561 0
+162C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.cache\gh-pages\https!github.com!MigQP!threejs-basics.git\.git\hooks\update.sample133039641327728481 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\acorn.cmd133039536635917878 0
 94C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\acorn.ps1133039536635917878 0
 97C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\browserslist133039533441120262 0
@@ -7080,9 +7225,9 @@
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\svgo.cmd133039536635917878 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\svgo.ps1133039536635917878 0
 95C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\node_modules\.bin\terser.cmd133039536635917878 0
-78C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets133039641195486917 1
-93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.548b4c18.js.map133039641195217641 0
-90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.dbe35270.css133039641194898489 0
-90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\stars.cf888a00.jpg133039641186190971 0
+78C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets133039688369804063 1
+93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.548b4c18.js.map133039688369534762 0
+90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\index.dfa5caa6.css133039688369195658 0
+90C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\stars.cf888a00.jpg133039688359224878 0
 93C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\img\nebula.jpg133038896254707813 0
 92C:\Users\jamon\Documents\ThreeJS\threejs-basics\gallery_example_01\dist\assets\img\stars.jpg133038896342733887 0

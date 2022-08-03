@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel ./src/index.html",
-    "predeploy": "parcel build ./src/index.html --public-url http://migqp.github.io/threejs-basics",
+    "predeploy": "parcel build ./src/index.html --public-url https://migqp.github.io/threejs-basics",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
