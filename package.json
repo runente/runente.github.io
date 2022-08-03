@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve -d dist src/index.html",
+    "build": "parcel build -d build --public-url /repo-name/ src/index.html",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
