@@ -42,23 +42,25 @@ camera.rotation.order = 'YXZ';
 camera.rotation.y = - Math.PI / 4;
 camera.rotation.x = Math.atan( - 1 / Math.sqrt( 2 ) );
 
-const orbit = new OrbitControls(camera, document.body);
+//const orbit = new OrbitControls(camera, document.body);
+const orbit = new OrbitControls(camera, renderer.domElement);
 
 const explore = $('.explore');
 var explorer = false;
 
 //explore
-explore.click(() => {   
-    if(!gsap.isTweening(camera.position)){
-      gsap.to(camera.position,{
-        duration: 1,
-        z: explorer ? 20 : 4,
-        ease: "power3.inOut",
-      })
-      explore[0].innerHTML = explorer ? "start exploring" : "go back";
-      explorer = !explorer;
-    }
-  });
+
+//explore.click(() => {   
+//    if(!gsap.isTweening(camera.position)){
+//      gsap.to(camera.position,{
+//        duration: 1,
+//        z: explorer ? 20 : 4,
+//        ease: "power3.inOut",
+//      })
+//      explore[0].innerHTML = explorer ? "start exploring" : "go back";
+//      explorer = !explorer;
+//    }
+//});
 
 
 
@@ -151,21 +153,61 @@ scene.add(sLightHelper);
 //scene.fog = new THREE.Fog(0xFFFFFF, 0, 200);
 scene.fog = new THREE.FogExp2(0xFFFFFF, 0.01);
 
-renderer.setClearColor(0xFFEA00);
+renderer.setClearColor(0xFFF9BD);
 
 
 const textureLoader = new THREE.TextureLoader();
 //scene.background = textureLoader.load(stars);
-const cubeTextureLoader = new THREE.CubeTextureLoader();
-scene.background = cubeTextureLoader.load([
-    nebula,
-    nebula,
-    stars,
-    stars,
-    stars,
-    stars
-]);
+//const cubeTextureLoader = new THREE.CubeTextureLoader();
+//scene.background = cubeTextureLoader.load([
+//    nebula,
+//    nebula,
+//    stars,
+//    stars,
+//    stars,
+//    stars
+//]);
 
+
+window.addEventListener('mousedown', cameraAnimation);
+
+const tl = gsap.timeline();
+const duration = 8;
+const ease = 'none';
+let animationIsFinished = false;
+
+function cameraAnimation () {
+    if (!animationIsFinished) {
+        animationIsFinished = true;
+
+        tl.to(camera.position, {
+            x: 0,
+            duration,
+            ease
+        })
+
+        .to(camera.position, {
+            y: 40,
+            z: 30, 
+            duration,
+            ease,
+            onUpdate: function () {
+                camera.lookAt(0, 0, 0);
+            }
+        }, 8)
+
+        .to(camera.position, {
+            x: -10,
+            y: 15,
+            z: 10, 
+            duration,
+            ease,
+            onUpdate: function () {
+                camera.lookAt(0, 0, 0);
+            }
+        }, 8)
+    }
+}
 
 
 
@@ -319,8 +361,8 @@ function animate (time) {
                     z: explorer ? 20 : 4,
                     ease: "power3.inOut",
                     })
-                    explore[0].innerHTML = explorer ? "start exploring" : "go back";
-                    explorer = !explorer;
+                    //explore[0].innerHTML = explorer ? "start exploring" : "go back";
+                    //explorer = !explorer;
                 }
                 
                 //orbit.enablePan = false;
