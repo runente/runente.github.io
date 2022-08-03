@@ -4,9 +4,9 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel serve -d dist src/index.html",
-    "build": "parcel build -d build --public-url /threejs-basics/ src/index.html",
-    "deploy": "gh-pages -d build"
+    "start": "parcel ./src/index.html",
+    "predeploy": "rm -rf dist && parcel build ./*.html --public-url https://github.com/MigQP/threejs-basics.git",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
