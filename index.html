@@ -1,45 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="/index.61d3354a.css">
-    <style>body {
-  margin: 0;
-}
-
-</style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="/index.64a4978e.js" defer=""></script>
-</head>
-<body>
-    <!--
-    <div class="container">
-        <div class="title-container">
-            <div class="title">
-                <h1>Hello</h1>
-                <p>Welcome to my planet</p>
-                <button class='explore'>Start Exploring</button>
-            </div>
-        </div>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+    <script type="module" crossorigin src="/assets/index.7e715b0d.js"></script>
+    <link rel="stylesheet" href="/assets/index.2aead57a.css">
+  </head>
+  <body>
+    <div class="experience">
+      <canvas class="experience-canvas"></canvas>
     </div>
-    -->
-
     
-    <script id="vertexShader" type="vertex">
-        void main() {
-            gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
-        }
-    </script>
-    <script id="fragmentShader" type="fragment">
-        void main() {
-            gl_FragColor = vec4(1.0, 0.1, 0.3, 1.0);
-        }
-    </script>
-    
-
-    
-</body>
+  </body>
 </html>
