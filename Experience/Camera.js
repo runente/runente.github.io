@@ -12,6 +12,7 @@ export default class Camera {
         this.createPerspectiveCamera();
         this.createOrthographicCamera();
         this.setOrbitControls();
+        this.setRayCaster();
     }
 
     createPerspectiveCamera(){
@@ -22,7 +23,9 @@ export default class Camera {
             1000
         );
         this.scene.add(this.perspectiveCamera);
-        this.perspectiveCamera.position.z = 5;
+        //this.perspectiveCamera.position.z = 10;
+        this.perspectiveCamera.position.set (-2, 2, 10);
+
     }
 
     createOrthographicCamera(){
@@ -43,7 +46,25 @@ export default class Camera {
         this.controls.enableDamping = true;
         this.controls.enableZoom = true;
 
+        this.controls.enableRotate = true;
+
+
+        this.controls.mouseButtons = {
+            LEFT: THREE.MOUSE.PAN,
+            MIDDLE: THREE.MOUSE.DOLLY,
+            RIGHT: THREE.MOUSE.ROTATE
+        }
+
     }
+
+    setRayCaster() {
+        this.raycaster = new THREE.Raycaster();
+        this.mouseposition = mousePosition;
+        //this.raycaster.setFromCamera(this.mouseposition, this.perspectiveCamera);
+        //this.intersects = this.raycaster.intersectObjects(scene.chidren);
+    }
+
+    
 
 
     resize() {
@@ -64,5 +85,15 @@ export default class Camera {
 
     update() {
         this.controls.update();
+        this.raycaster.setFromCamera(this.mouseposition, this.perspectiveCamera);
+
     }
 }
+
+export const mousePosition = new THREE.Vector2();
+
+window.addEventListener('mousemove', function(e) {
+    mousePosition.x = (e.clientX / window.innerWidth) * 2 - 1;
+    mousePosition.y = - (e.clientY / window.innerHeight) * 2 + 1; 
+});
+

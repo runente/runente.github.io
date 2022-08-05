@@ -11,7 +11,7 @@ export default class Room {
         this.actualRoom = this.room.scene;
         
         this.setModel();
-        this.setAnimation();
+        //this.setAnimation();
 
     }
 
@@ -59,6 +59,6 @@ export default class Room {
     resize() {}
 
     update() {
-        this.mixer.update(this.time.delta * 0.0009);
+        //this.mixer.update(this.time.delta * 0.0009);
     }
 }
