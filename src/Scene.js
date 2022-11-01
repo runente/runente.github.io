@@ -23,10 +23,19 @@ export default function Scene({ ...props }) {
   })
   const { camera } = useThree()
   useFrame((state, delta) => {
+    document.querySelector("#main-button").onclick = function() {
+      gsap.fromTo("#slr", {autoAlpha: 0}, {autoAlpha: 1.0, duration: 1});
+      gsap.to(camera.position,  {
+        x: () => -30.39,
+        y: () => 199.97,
+        z: () => 412.38,
+        duration: 0.5
+      })
+      console.log("principal");
+      camera.rotation.set(-0.42, -.1 , -0.05);
+    }
     document.querySelector("#sculpt-button").onclick = function() {
-      console.log("cambio");
         gsap.fromTo("#slr", {autoAlpha: 0}, {autoAlpha: 1.0, duration: 1});
-        //camera.rotation.set(0, 0, 0);
         gsap.to(camera.position,  {
           x: () => 50,
           y: () => 30,
@@ -38,7 +47,6 @@ export default function Scene({ ...props }) {
         camera.rotation.set(0, -.2 ,0);
     }
     document.querySelector("#screen-button").onclick = function() {
-      console.log("cambio");
         gsap.fromTo("#slr", {autoAlpha: 0}, {autoAlpha: 1.0, duration: 1});
         gsap.to(camera.position,  {
           x: () => -80,
@@ -46,10 +54,12 @@ export default function Scene({ ...props }) {
           z: () => 70,
           duration: 0.5
         })
+        console.log(camera.position);
         camera.rotation.set( 0, .3, 0)
     }   
   })
   console.log(camera.position);
+  console.log(camera.rotation);
   return (
     <>
       <color attach="background" args={['#fceadc']} />
